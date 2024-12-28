@@ -19,13 +19,13 @@ To use this inventory script please set up your credentials using `~/.aws/creden
 Add the following to your config:
 
 ```ini
-[croc]
+[k2]
 aws_access_key_id = <YOUR_ACCESS_KEY>
 aws_secret_access_key = <YOUR_SECRET_KEY>
 ```
 
-Now specify your aws profile using environment variables `export AWS_PROFILE=croc`.  
-Or you can pass this variable before every command `AWS_PROFILE=croc ansbile-playbook ...`
+Now specify your aws profile using environment variables `export AWS_PROFILE=k2`.
+Or you can pass this variable before every command `AWS_PROFILE=k2 ansbile-playbook ...`
 
 ### Setup credentials using ec2.ini
 
