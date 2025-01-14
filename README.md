@@ -1,6 +1,6 @@
-# CROC Cloud Ansible Dynamic Inventory
+# K2 Cloud Ansible Dynamic Inventory
 
-CROC Cloud Ansible Dynamic Inventory is a scripts for managing your cloud infrastructure dynamically.
+K2 Cloud Ansible Dynamic Inventory is a scripts for managing your cloud infrastructure dynamically.
 
 ## Setup
 
